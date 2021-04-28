@@ -9,7 +9,7 @@ This project will look into the evolution of sugar consumption worldwide and its
 <p>Eating a healthy diet is becoming more and more difficult as sugar is being added to most of the food we can buy at the grocery store. Meanwhile, the obesity rate in many countries has been increasing considerately over the past 50 years.</p>
 I would like to see if the increase in sugar consumption has an impact on obesity and if there is a correlation between the two.<br>
 <br>
-Obesity is a known fact and there are 2 main factors for it:<br>
+Obesity rate is increasing and there are 2 main factors for it:<br>
 
 1. People are not educated enough about what they eat, the nutritional value of their meal and the impact each nutrient has on their weight/health.
 1. Even for someone who understands the consequences of eating too much sugar, it is still extremely difficult to stay away from sugar while grocery shopping. Sugar is present in all the products sold in a regular grocery store and in abundance. Marketing experts are doing a great job hiding it within the ingredient list under different names (glucose, fructose, sucrose etc…). Unless you are a nutritionist, it is nearly impossible to keep track of it.
