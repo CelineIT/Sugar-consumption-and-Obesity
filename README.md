@@ -1,5 +1,3 @@
-# Sugar-consumption-and-Obesity
-
 # Sugar consumption and Obesity
 
 
