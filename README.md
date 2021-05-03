@@ -32,7 +32,7 @@ Here are the steps of my analysis:
 
 ## Project:
 You can find my Tableau dashboard here: 
-https://public.tableau.com/profile/celine.d.amore#!/vizhome/SugarconsumptionandObesity/Story1
+https://public.tableau.com/profile/celine.d.amore#!/vizhome/SugarandObesity/SugarandObesity
 
 ## Data Sources
 ### Sugar Consumption:
